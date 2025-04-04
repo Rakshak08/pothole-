@@ -1,4 +1,4 @@
-# pothole-
+# Pothole-
 ## 📦 Dataset: Pothole
 
 The dataset used for training is hosted on Google Drive.
